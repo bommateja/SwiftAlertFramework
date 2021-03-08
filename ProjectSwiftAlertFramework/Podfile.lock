@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAlertFramework (1.0.0)
+
+DEPENDENCIES:
+  - SwiftAlertFramework (from `../SwiftAlertFramework/`)
+
+EXTERNAL SOURCES:
+  SwiftAlertFramework:
+    :path: "../SwiftAlertFramework/"
+
+SPEC CHECKSUMS:
+  SwiftAlertFramework: 1f62216ac944866691e8fa87a1e6ba09cfdd03db
+
+PODFILE CHECKSUM: a9c4947be15c5ab31e9010e02a37e9ea983cf11d
+
+COCOAPODS: 1.10.0

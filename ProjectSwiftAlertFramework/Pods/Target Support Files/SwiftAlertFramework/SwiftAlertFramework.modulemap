@@ -1,0 +1,6 @@
+framework module SwiftAlertFramework {
+  umbrella header "SwiftAlertFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
